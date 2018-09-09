@@ -1,3 +1,2 @@
-Git is a vesion control system.
-Git is free software.
-Now I add a new colume.
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
